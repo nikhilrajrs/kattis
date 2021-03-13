@@ -1,2 +1,2 @@
 # kattis
-Solutions in Java for Kattis problems
+Java solutions for Kattis problems
